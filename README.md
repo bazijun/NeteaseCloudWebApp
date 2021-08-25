@@ -10,10 +10,10 @@
 - Muse-UI(一个基于Vue2.x的material design 风格UI框架)
 
 ## 运行截图
-![首页](https://github.com/javaSwing/NeteaseCloudWebApp/raw/master/screenshots/1.png)
-![详情](https://github.com/javaSwing/NeteaseCloudWebApp/raw/master/screenshots/2.png)
-![动图](https://github.com/javaSwing/NeteaseCloudWebApp/raw/master/screenshots/3.gif)
-![动图](https://github.com/javaSwing/NeteaseCloudWebApp/raw/master/screenshots/4.gif)
+![首页](https://github.com/bazijun/NeteaseCloudWebApp/raw/master/screenshots/1.png)
+![详情](https://github.com/bazijun/NeteaseCloudWebApp/raw/master/screenshots/2.png)
+![动图](https://github.com/bazijun/NeteaseCloudWebApp/raw/master/screenshots/3.gif)
+![动图](https://github.com/bazijun/NeteaseCloudWebApp/raw/master/screenshots/4.gif)
 
 ## 安装运行（Build Setup）
 
